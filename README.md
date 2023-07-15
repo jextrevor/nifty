@@ -24,6 +24,9 @@ As of time of writing, the following characters are possible:
 - `)`
 - `{`
 - ` `
+- `+`
+- `.`
+- `-`
 - Numbers 0-9
 
 If you choose to limit yourself to just Chrome or just Firefox, then the following become possible (the earlier characters are cross compatible):

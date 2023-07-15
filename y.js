@@ -1,4 +1,4 @@
-let expression = 't';
+let expression = 'y';
 expression = 'Infinity'[7];
 expression = [Infinity + ''][0][7];
 expression = [1e1000 + ''][0][7];
